@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Зощик](https://up.htmlacademy.ru/ecmascript/6/user/20096).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Сальников](https://up.htmlacademy.ru/ecmascript/6/user/24537).
 
 ---
 
