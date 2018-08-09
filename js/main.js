@@ -64,7 +64,9 @@ const arrows = app.querySelectorAll(`.arrows__btn`);
 const arrowLeftBtn = app.querySelector(`.arrows__btn:first-of-type`);
 const arrowRightBtn = app.querySelector(`.arrows__btn:last-of-type`);
 
-arrows.forEach((item) => item.style = `background-color: #fff`);
+arrows.forEach((item) => {
+  item.style = `background-color: #fff`;
+});
 
 // Переключение экранов по нажатию на кнопки на экране
 arrowLeftBtn.addEventListener(`click`, togglePrevScreen);
